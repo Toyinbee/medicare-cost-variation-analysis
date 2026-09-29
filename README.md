@@ -64,6 +64,8 @@ GROUP BY state, ROUND(billed, 0);
 
 ## What I found
 
+![Billed vs approved vs paid by state](chart1_state_costs.png)
+
 | State | Avg. billed | Avg. Medicare-approved | Avg. Medicare paid |
 |---|---|---|---|
 | New York | $355 | $124 | $89 |
