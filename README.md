@@ -99,7 +99,7 @@ Python (pandas), SQL (SQLite), Google Colab, Looker Studio, Notion
 
 ## Links
 
-- Live dashboard: *(add Looker Studio link once published)*
+- Live dashboard: https://datastudio.google.com/reporting/dd2c6b43-7db1-4050-935d-a2c7c34c4ee9
 - Case study write-up: *(add Notion link)*
 - Notebook: `medicare_cost_variation_analysis.ipynb` (in this repo)
 
