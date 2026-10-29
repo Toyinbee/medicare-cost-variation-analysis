@@ -19,7 +19,7 @@ To keep the comparison fair, I picked one single service HCPCS code **99214**, a
 2. Loaded the data into Google Colab (built entirely on a phone, no laptop involved).
 3. Checked the data before trusting it confirmed only the four states and one code were present, checked for duplicates (none found), and identified 3 rows where Medicare paid $0, which I removed as a data oddity.
 4. Loaded the clean data into SQLite and queried it directly.
-5. Flagged "extreme billers" providers billing more than 5x the Medicare-approved price — limited to providers with at least 30 patients to avoid small-sample noise.
+5. Flagged "extreme billers" providers billing more than 5x the Medicare-approved price limited to providers with at least 30 patients to avoid small-sample noise.
 6. Checked whether extreme billers were spread out or concentrated around a few repeated price points.
 7. Charted the results in Python (matplotlib).
 8. Built a dashboard in Looker Studio.
