@@ -11,7 +11,7 @@ To keep the comparison fair, I picked one single service HCPCS code **99214**, a
 
 ## Data source
 
-**CMS Medicare Physician & Other Practitioners — by Provider and Service (2024)**, from [data.cms.gov](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service). Real, public government data, 131,951 provider records after filtering to code 99214 across the four states.
+**CMS Medicare Physician & Other Practitioners by Provider and Service (2024)**, from [data.cms.gov](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service). Real, public government data, 131,951 provider records after filtering to code 99214 across the four states.
 
 ## Steps I took
 
